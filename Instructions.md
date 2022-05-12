@@ -1,5 +1,5 @@
 # MMDVM-Nextion-Screen-Layouts
-To edit the HMI File download the Nextion Editor from: https://nextion.itead.cc/resources/download/nextion-editor/  
+To edit the HMI File download the Nextion Editor from: https://nextion.tech/nextion-editor/
   
 Purchasing a Nextion Screen.:
   
